@@ -1,0 +1,51 @@
+/*-----------------------Contenido Encabezado y Logo-----------------------------*/
+
+
+#Logo {
+    width: 8%;
+    height 8;
+}
+
+body{
+    margin: 0;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    padding-top: 20px;
+}
+
+
+.Contenido {
+    width: 90%;
+    margin:auto;
+    border: 2px solid #33965D;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Navegacion a{
+    color:black;
+    margin-right: 22px;
+    text-decoration: none;
+}
+
+
+.Navegacion a:hover { 
+    color: #33965D;
+    text-decoration:none; 
+}
+
+.SelectionImagen{
+   
+    margin-top: 5%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+
